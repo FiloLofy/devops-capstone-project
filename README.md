@@ -1,5 +1,7 @@
 # devops-capstone-project
 
+![Build Status](https://github.com/FiloLofy/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)
+
 Capstone project for building a customer accounts microservice with a REST API to create, read, update, delete, and list customer accounts.
 
 # DevOps Capstone Template
